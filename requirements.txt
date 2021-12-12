@@ -1,0 +1,11 @@
+numpy
+ipdb
+scipy
+matplotlib
+sklearn
+pandas
+seaborn
+plotly
+squarify
+graphviz
+kaleido
