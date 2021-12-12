@@ -1,0 +1,93 @@
+commit 684cf27389e29336d2630513c69c62687c85d06b
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sun Dec 12 21:03:20 2021 +0100
+
+    final push maybe ?
+
+commit 76c2bda5cc681e652d13dfbb1fe865a862c4f7fa
+Merge: ea3e669 9d77f92
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sun Dec 12 21:02:36 2021 +0100
+
+    final push
+
+commit ea3e669706e09c6140e8f001aade56ea0ca39c16
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sun Dec 12 20:54:08 2021 +0100
+
+    project done
+
+commit 9d77f929710ab18be50065a4d34eeb500a90aa9c
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Sun Dec 12 20:14:18 2021 +0100
+
+    Ajout de visualization_2
+
+commit 8cd1b4cf892224bca2ce419db56a54523c165f9c
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sat Dec 11 19:39:54 2021 +0100
+
+    fix default visu 1
+
+commit b51bdde02ca7c38789c535afcbb83b271818ba2c
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sat Dec 11 19:33:07 2021 +0100
+
+    adding vizu 1
+
+commit c3dd961a8475732dca151d0961baf40fdde53fcd
+Merge: d620e7a 40b1259
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Sat Dec 11 18:53:23 2021 +0100
+
+    Merge branch 'Analyse'
+
+commit 40b1259593892a9d25c1f12412b949c5e801a3cc
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Sat Dec 11 18:52:49 2021 +0100
+
+    - Ajout outliers
+
+commit 63eb7bd2b4c34934ddc1884f7889ef5400db3135
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Sat Dec 11 18:18:28 2021 +0100
+
+    - Ajout de l'erreur type des valeurs
+    - Ajout des hist des nouvelles colonnes
+    - Ajout de la matrice de corrélation
+
+commit 537eff8bd1b52776e221d30884979f613f09a34f
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Sat Dec 11 16:27:34 2021 +0100
+
+    Ajout d'analyses + correction du nombre de bins
+
+commit d620e7a510b9f0f3421e2338d332023693df5f07
+Author: Eliott <eliottmb@gmail.com>
+Date:   Sat Dec 11 14:49:57 2021 +0100
+
+    part 1 done
+
+commit eab009e426c9745c07121e3aa25953d6b71d6fde
+Author: Eliott <eliottmb@gmail.com>
+Date:   Fri Dec 10 20:17:15 2021 +0100
+
+    Dataset generation done
+
+commit ea14cf0985d2a0bf0287e74144431d88d3b681b7
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Fri Dec 10 20:01:37 2021 +0100
+
+    [ADD] Analyse
+
+commit d5efe6b955bd18a646c84a42b36ea1110a6fbc8b
+Author: Eliott <eliottmb@gmail.com>
+Date:   Tue Nov 30 15:30:34 2021 +0100
+
+    testing repository
+
+commit e4c2867816de3a21d5cf21c4830b2b5ba0d7a29f
+Author: Arthur Perno <arthur.perno@epitech.eu>
+Date:   Tue Nov 30 14:26:14 2021 +0100
+
+    Create .gitignore
